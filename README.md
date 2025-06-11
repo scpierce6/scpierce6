@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Scott Pierce
 
-<!--
-**scpierce6/scpierce6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I graduated with a Bachelor's degree in Informatics with a concentration in Data Analytics from the University at Albany.
 
-Here are some ideas to get you started:
+🔍 I'm currently building my full-stack development skills and exploring data-driven solutions through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Check out my portfolio website:
+[https://scpierce6.github.io](https://scpierce6.github.io)
+
+💻 Skills:
+- HTML, CSS, JavaScript
+- SQL, Python
+- GitHub, GitHub Pages
+- Data Visualization & Analysis
+
+📬 Feel free to connect!
